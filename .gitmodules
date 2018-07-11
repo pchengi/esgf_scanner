@@ -1,0 +1,3 @@
+[submodule "cvechecker"]
+	path = cvechecker
+	url = https://github.com/snic-nsc/cvechecker.git
