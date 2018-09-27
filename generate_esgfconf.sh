@@ -19,5 +19,11 @@ for i in cog_packages pub_packages jarlist; do
 done
 excludes=`cat esgf_excludes`
 packages=`cat esgf_manual cog_packages.out jarlist.out pub_packages.out|sort -u|paste -sd,`
+echo $packages >packages
+while read ln; do
+    sed -i "s/,$ln,/,/" packages
+done <expungelist
+packages=`cat packages`
+rm packages
 echo "packages=$packages" >>esgf.conf
 echo "excludes=$excludes" >>esgf.conf
