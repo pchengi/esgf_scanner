@@ -1,0 +1,97 @@
+#CVE-id|product|muting date|Reason for muting
+CVE-2010-1169|postgresql|2018-09-27 21:18|Doesn't affect current versions
+CVE-2010-1170|postgresql|2018-09-27 21:18|Doesn't affect current versions
+CVE-2012-0866|postgresql|2018-09-27 21:18|Doesn't affect current versions
+CVE-2012-0867|postgresql|2018-09-27 21:18|Doesn't affect current versions
+CVE-2012-0868|postgresql|2018-09-27 21:18|Doesn't affect current versions
+CVE-2012-1618|postgresql-jdbc|2018-09-27 21:23|Not affected (c6)
+CVE-2012-2655|postgresql|2018-09-27 21:26|Doesn't affect current versions
+CVE-2012-3489|postgresql|2018-09-27 21:26|Doesn't affect current versions
+CVE-2012-4520|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2013-0305|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2013-0306|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2013-1443|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2013-4315|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2013-6044|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0472|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0473|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0474|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0480|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0481|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0482|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-0483|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-1418|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2014-3730|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-0219|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-0220|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-0221|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-0222|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-2241|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-2316|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-2317|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-3982|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-5143|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-5144|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-5145|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-5963|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-5964|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-8213|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-2048|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-2512|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-2513|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-6186|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-7401|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2016-9013|django|2018-09-27 22:06|Affects older versions 
+CVE-2016-9014|django|2018-09-27 22:06|Affects older versions
+CVE-2017-12794|django|2018-09-27 22:07|Vulnerable only if server is run with DEBUG=TRUE
+CVE-2018-7536|django|2018-09-27 22:14|Current version is unaffected. Check before upgrading.
+CVE-2018-7537|django|2018-09-27 22:18|Current version is unaffected. Check before upgrading.
+CVE-2018-14574|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
+CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
+CVE-2013-0255|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2013-1899|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2013-1900|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2013-1901|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0060|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0061|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0062|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0063|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0064|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0065|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-0066|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-0241|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-0242|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-0244|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-3165|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-3166|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-3167|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-5288|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-5289|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2016-0773|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2016-2193|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2014-2669|postgresql|2018-09-28 11:06|Current version is unaffected.
+CVE-2014-8161|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2015-0243|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-3065|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-5423|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-5424|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-7048|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-7070|postgresql|2018-09-28 11:25|Vulnerability not related to postgresql, but Ansible Tower.
+CVE-2017-12172|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-15097|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-15098|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-15099|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-7484|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-7485|postgresql|2018-09-28 11:33|Benign/not-applicable
+CVE-2017-7486|postgresql|2018-09-28 11:37|Not applicable
+CVE-2017-7546|postgresql|2018-09-28 14:26|Fixed
+CVE-2017-7547|postgresql|2018-09-28 14:32|Not affected
+CVE-2017-7548|postgresql|2018-09-28 14:32|Not affected
+CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
+CVE-2018-1053|postgresql|2018-09-28 14:32|Not affected
+CVE-2018-10915|postgresql|2018-09-28 14:32|Not affected
+CVE-2018-10925|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2018-1115|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2017-8806|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2016-0766|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2016-1255|postgresql|2018-09-28 14:41|Not affected/not relevant
