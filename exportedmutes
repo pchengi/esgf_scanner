@@ -1,3 +1,4 @@
+CVE-2005-1080|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2005-2090|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2005-3510|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2005-4838|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
@@ -705,27 +706,59 @@ CVE-2014-2428|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-2483|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-2490|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-2669|postgresql|2018-09-28 11:06|Current version is unaffected.
+CVE-2014-3065|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-3068|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-3086|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-3730|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2014-4208|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4209|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-4216|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4218|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-4219|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-4220|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-4221|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-4223|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4227|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-4244|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-4247|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4252|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-4262|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
+CVE-2014-4263|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-4264|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4265|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-4266|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-4268|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-4288|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-6456|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6458|java|2018-10-01 21:16|pchengi: CVEs against older versions and/or other vendors
 CVE-2014-6466|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6468|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6476|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6492|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6493|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6502|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6503|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6504|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6506|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6511|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6513|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6515|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6517|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6519|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6527|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6531|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6532|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6562|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2014-6585|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6587|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6591|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6593|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6601|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-8161|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2014-8891|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-8892|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2015-0138|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2015-0192|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2015-0219|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-0220|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-0221|django|2018-09-27 21:58|vulnerabilities against very old versions of django
