@@ -8,4 +8,7 @@ runcvechecker.sh
 lasjars
 solr_serverjars
 solr_webappjars
+esgf_excludes
+esgf_keywords
+esgf_manual
 
