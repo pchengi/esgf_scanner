@@ -626,6 +626,8 @@ CVE-2013-5907|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2013-5910|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2013-6044|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2013-6357|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
+CVE-2013-6370|json|2018-10-03 09:58|json-c
+CVE-2013-6371|json|2018-10-03 09:58|json-c
 CVE-2013-6629|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2013-6954|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-0033|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
@@ -769,6 +771,7 @@ CVE-2015-0241|postgresql|2018-09-27 22:43|Current version is unaffected. Check b
 CVE-2015-0242|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-0243|postgresql|2018-09-28 11:23|Current version is unaffected.
 CVE-2015-0244|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-0254|Apache Taglig-Standard|2018-10-03 09:43|CVE against older version
 CVE-2015-0383|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-0395|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-0400|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
@@ -795,6 +798,7 @@ CVE-2015-0488|java|2018-10-03 08:23|pchengi: CVEs against older versions of java
 CVE-2015-0491|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-0492|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-1914|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-1916|java|2018-10-03 08:44|pchengi: CVEs against older versions.
 CVE-2015-2241|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-2316|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-2317|django|2018-09-27 21:58|vulnerabilities against very old versions of django
@@ -826,6 +830,33 @@ CVE-2015-4734|java|2018-10-03 08:23|pchengi: CVEs against older versions of java
 CVE-2015-4736|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-4748|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-4749|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4760|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4803|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4805|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4806|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4810|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4835|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4840|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4842|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4843|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4844|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4860|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4868|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4871|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4872|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4881|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4882|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4883|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4893|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4901|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4902|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4903|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4906|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4908|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4911|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-4916|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-5006|java|2018-10-03 08:44|pchengi: CVEs against older versions.
+CVE-2015-5041|java|2018-10-03 08:44|pchengi: CVEs against older versions.
 CVE-2015-5143|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-5144|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-5145|django|2018-09-27 21:58|vulnerabilities against very old versions of django
@@ -833,6 +864,7 @@ CVE-2015-5288|postgresql|2018-09-27 22:43|Current version is unaffected. Check b
 CVE-2015-5289|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-5963|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-5964|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-7575|java|2018-10-03 08:44|pchengi: CVEs against older versions.
 CVE-2015-8213|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-0773|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2016-2048|django|2018-09-27 21:58|vulnerabilities against very old versions of django
@@ -848,6 +880,7 @@ CVE-2016-7070|postgresql|2018-09-28 11:25|Vulnerability not related to postgresq
 CVE-2016-7401|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-9013|django|2018-09-27 22:06|Affects older versions 
 CVE-2016-9014|django|2018-09-27 22:06|Affects older versions
+CVE-2016-9243|python-cryptography|2018-10-03 11:05|old version
 CVE-2017-12172|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-12794|django|2018-09-27 22:07|Vulnerable only if server is run with DEBUG=TRUE
 CVE-2017-15097|postgresql|2018-09-28 11:33|Benign/not-applicable
@@ -868,6 +901,11 @@ CVE-2018-14574|django|2018-09-27 22:24|Current version is unaffected. Check befo
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
 CVE-2018-7536|django|2018-09-27 22:14|Current version is unaffected. Check before upgrading.
 CVE-2018-7537|django|2018-09-27 22:18|Current version is unaffected. Check before upgrading.
+CVE-2018-1000011|findbugs|2018-10-03 09:36|False-positive; this is a Jenkins plugin, not the one used by esg-search.
+CVE-2017-5682|cryptography|2018-10-03 11:05|false-positive; unrelated product by Intel
 CVE-2017-8806|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2016-0766|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2016-10075|tqdm|2018-10-03 09:55|deployed version unaffected
 CVE-2016-1255|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2016-9015|urllib3|2018-10-03 10:08|old version
+CVE-2015-5723|annotations|2018-10-03 09:48|pchengi: product of the same name by unrelated vendor
