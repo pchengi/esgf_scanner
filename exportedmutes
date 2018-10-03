@@ -748,6 +748,8 @@ CVE-2014-6519|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6527|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6531|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6532|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
+CVE-2014-6549|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2014-6558|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2014-6562|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2014-6585|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
 CVE-2014-6587|java|2018-10-01 21:25|pchengi: CVEs against older versions and/or unrelated vendors
@@ -767,13 +769,63 @@ CVE-2015-0241|postgresql|2018-09-27 22:43|Current version is unaffected. Check b
 CVE-2015-0242|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-0243|postgresql|2018-09-28 11:23|Current version is unaffected.
 CVE-2015-0244|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2015-0383|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0395|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0400|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0403|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0406|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0407|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0408|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0410|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0412|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0413|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0421|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0437|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0458|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0459|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0460|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0469|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0470|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0477|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0478|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0480|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0484|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0486|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0488|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0491|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-0492|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-1914|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-2241|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-2316|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-2317|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-2590|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2596|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2597|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2601|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2613|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2619|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2621|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2625|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2627|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2628|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2632|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2637|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2638|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2659|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-2664|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-3149|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-3165|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-3166|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-3167|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-3982|django|2018-09-27 21:58|vulnerabilities against very old versions of django
+CVE-2015-4729|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4731|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4732|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4733|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4734|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4736|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4748|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
+CVE-2015-4749|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-5143|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-5144|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-5145|django|2018-09-27 21:58|vulnerabilities against very old versions of django
