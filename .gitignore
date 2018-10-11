@@ -7,6 +7,7 @@ runcvechecker.sh
 *.out
 lasjars
 esgf_excludes
+expungelist
 esgf_keywords
 esgf_manual
 solr_jars
