@@ -1,0 +1,7 @@
+# Tagging convention
+
+- Tags used will refer to ESGF releases.
+- Tags indicated the end of testing/updating for a release, rather than beginning.
+    - For example, a tag '2.7.1' would indicate that it was the last commit where cvechecker was used against ESGF 2.7.1.
+    - Commits past that point would have the template files updated for the next release.
+    - The file `Current_Release` lists the version of ESGF that tests are now being carried out for.
