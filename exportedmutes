@@ -72,26 +72,26 @@ CVE-2008-1191|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-1192|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-1193|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-1194|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-1195|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2008-1195|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2008-1196|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-1232|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
-CVE-2008-1947|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
-CVE-2008-2086|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-2370|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
-CVE-2008-2938|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
-CVE-2008-3103|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3104|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3105|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3106|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3107|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3108|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3109|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3110|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3111|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3112|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3113|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3114|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-3271|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
+CVE-2008-1232|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-1947|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-2086|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-2370|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-2938|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3103|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3104|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3105|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3106|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3107|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3108|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3109|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3110|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3111|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3112|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3113|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3114|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-3271|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2008-5339|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5340|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5341|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
@@ -102,19 +102,19 @@ CVE-2008-5345|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5346|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5347|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5348|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-5349|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2008-5349|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2008-5350|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5351|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5352|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-5353|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2008-5353|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2008-5354|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5356|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5357|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5358|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5359|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5360|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2008-5515|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
-CVE-2009-0033|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
+CVE-2008-5515|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2009-0033|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2009-0217|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2009-0580|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2009-0581|java|2018-10-11 13:38|Older versions
@@ -168,7 +168,7 @@ CVE-2009-2902|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2009-3229|postgresql|2018-10-11 14:03|CVEs prior to 2015
 CVE-2009-3230|postgresql|2018-10-11 14:03|CVEs prior to 2015
 CVE-2009-3231|postgresql|2018-10-11 14:03|CVEs prior to 2015
-CVE-2009-3555|java|2018-10-11 13:40|CVEs prior to 2015
+CVE-2009-3555|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2009-3728|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2009-3729|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2009-3865|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
