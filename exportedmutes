@@ -1228,6 +1228,17 @@ CVE-2018-2663|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2677|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2678|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2783|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-2790|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2794|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2795|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2796|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2797|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2798|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2799|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2800|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2811|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2814|java|2018-10-12 06:29|CVEs against older versions
+CVE-2018-2815|java|2018-10-12 06:29|CVEs against older versions
 CVE-2018-2825|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2826|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2938|java|2018-10-11 13:50|old versions and unrelated products
@@ -1329,6 +1340,12 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2008-2751|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-3551|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-4910|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5115|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5116|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5266|java|2018-10-12 06:29|CVEs against older versions
 CVE-2009-0877|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2009-1218|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2009-1219|java|2018-10-11 13:50|old versions and unrelated products
