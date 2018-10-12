@@ -114,6 +114,7 @@ CVE-2008-5358|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5359|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5360|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5515|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2008-5519|tomcat|2018-10-12 07:49|Old versions
 CVE-2009-0033|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2009-0217|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2009-0580|tomcat|2018-10-11 14:00|CVEs against older versions
@@ -227,6 +228,7 @@ CVE-2010-1170|postgresql|2018-09-27 21:18|Doesn't affect current versions
 CVE-2010-1321|java|2018-10-11 13:40|CVEs prior to 2015
 CVE-2010-1975|postgresql|2018-10-11 14:03|CVEs prior to 2015
 CVE-2010-2227|tomcat|2018-10-11 14:00|CVEs against older versions
+CVE-2010-2232|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2010-2548|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2010-2783|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2010-3433|postgresql|2018-10-11 14:03|CVEs prior to 2015
@@ -517,6 +519,7 @@ CVE-2013-2051|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2013-2067|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2013-2071|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2013-2115|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2013-2172|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2013-2185|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2013-2383|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2013-2384|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
@@ -603,6 +606,7 @@ CVE-2013-4315|django|2018-09-27 21:58|vulnerabilities against very old versions 
 CVE-2013-4316|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2013-4322|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2013-4444|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
+CVE-2013-4517|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2013-4578|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2013-4590|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2013-5372|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
@@ -701,6 +705,7 @@ CVE-2014-0094|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2014-0095|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2014-0096|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2014-0099|tomcat|2018-10-11 14:00|CVEs against older versions
+CVE-2014-0107|xalan|2018-10-12 11:03|CVE against older version
 CVE-2014-0112|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2014-0113|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2014-0114|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
@@ -884,6 +889,7 @@ CVE-2015-0491|java|2018-10-03 08:23|pchengi: CVEs against older versions of java
 CVE-2015-0492|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-0851|Misc|2018-10-11 14:46|old versions
 CVE-2015-0899|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2015-1796|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2015-1831|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2015-1914|java|2018-10-03 08:23|pchengi: CVEs against older versions of java, or specific to vendors other than oracle
 CVE-2015-1916|java|2018-10-03 08:44|pchengi: CVEs against older versions.
@@ -998,6 +1004,7 @@ CVE-2016-1182|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-1240|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2016-2048|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-2162|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2016-2175|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-2183|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2016-2193|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2016-2512|django|2018-09-27 21:58|vulnerabilities against very old versions of django
@@ -1031,10 +1038,13 @@ CVE-2016-4003|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4430|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4431|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4433|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2016-4434|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-4436|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4438|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4465|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4993|tomcat|2018-10-08 14:53|CVEs against older versions
+CVE-2016-5000|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2016-5007|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-5017|Apache Zookeeper|2018-10-03 13:38|C CLI shell vulnerability; not exposed to users
 CVE-2016-5018|tomcat|2018-10-08 14:53|CVEs against older versions
 CVE-2016-5388|tomcat|2018-10-08 14:53|CVEs against older versions
@@ -1053,6 +1063,7 @@ CVE-2016-5568|java|2018-10-08 14:13|CVEs against older versions or unrelated ven
 CVE-2016-5573|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2016-5582|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2016-5597|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
+CVE-2016-6186|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-6325|tomcat|2018-10-08 14:53|CVEs against older versions
 CVE-2016-6794|tomcat|2018-10-08 14:53|CVEs against older versions
 CVE-2016-6796|tomcat|2018-10-08 14:53|CVEs against older versions
@@ -1066,6 +1077,7 @@ CVE-2016-7401|django|2018-09-27 21:58|vulnerabilities against very old versions 
 CVE-2016-8328|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2016-8735|tomcat|2018-10-09 11:04|CVEs against older versions
 CVE-2016-8745|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2016-8747|tomcat|2018-10-12 07:49|Old versions
 CVE-2016-9013|django|2018-09-27 22:06|Affects older versions 
 CVE-2016-9014|django|2018-09-27 22:06|Affects older versions
 CVE-2016-9243|python-cryptography|2018-10-03 11:05|old version
@@ -1124,18 +1136,21 @@ CVE-2017-12172|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-12611|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-12615|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-12616|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2017-12617|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-12626|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-12629|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-12794|django|2018-09-27 22:07|Vulnerable only if server is run with DEBUG=TRUE
 CVE-2017-12852|numpy|2018-10-03 11:41|old versions
 CVE-2017-1289|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-1376|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
-CVE-2017-15095|Misc|2018-10-11 14:46|old versions
 CVE-2017-15097|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15098|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15099|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15698|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-15706|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2017-15707|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-16853|Misc|2018-10-11 14:46|old versions
+CVE-2017-17485|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-3163|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-3231|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-3241|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
@@ -1161,6 +1176,11 @@ CVE-2017-4971|spring|2018-10-11 13:24|CVEs against older versions and unrelated 
 CVE-2017-4995|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-5637|Apache Zookeeper|2018-10-03 13:40|Not accessible
 CVE-2017-5638|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2017-5647|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-5648|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-5650|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-5651|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-5664|tomcat|2018-10-12 07:49|Old versions
 CVE-2017-6056|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-7464|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-7465|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
@@ -1173,6 +1193,8 @@ CVE-2017-7547|postgresql|2018-09-28 14:32|Not affected
 CVE-2017-7548|postgresql|2018-09-28 14:32|Not affected
 CVE-2017-7660|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-7672|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2017-7674|tomcat|2018-10-12 07:49|Old versions
+CVE-2017-7675|tomcat|2018-10-12 07:49|Old versions
 CVE-2017-8028|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-8039|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-8046|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
@@ -1182,6 +1204,7 @@ CVE-2017-9793|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9803|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-9804|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9805|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
+CVE-2018-0486|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1000056|junit|2018-10-03 12:01|false-positive hit on unrelated product Jenkins Junit Plugin
 CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1053|postgresql|2018-09-28 14:32|Not affected
@@ -1190,6 +1213,7 @@ CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated
 CVE-2018-10925|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2018-1115|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2018-11771|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2018-11776|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-12539|java|2018-10-08 14:20|CVEs against older versions
@@ -1197,13 +1221,21 @@ CVE-2018-1257|spring|2018-10-11 13:24|CVEs against older versions and unrelated 
 CVE-2018-1258|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1259|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1260|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2018-1270|tomcat|2018-10-12 07:49|Old versions
+CVE-2018-1271|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2018-1272|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-1273|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1274|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1275|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2018-1304|tomcat|2018-10-12 07:49|Old versions
+CVE-2018-1305|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-1308|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2018-1323|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-1324|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2018-1336|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-16435|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-1656|java|2018-10-08 14:20|CVEs against older versions
@@ -1254,11 +1286,17 @@ CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check befor
 CVE-2018-7536|django|2018-09-27 22:14|Current version is unaffected. Check before upgrading.
 CVE-2018-7537|django|2018-09-27 22:18|Current version is unaffected. Check before upgrading.
 CVE-2018-8010|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2018-8012|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2018-8014|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-8019|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-8020|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-8026|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2018-8034|tomcat|2018-10-12 07:49|Old versions
+CVE-2018-8037|tomcat|2018-10-12 07:49|Old versions
+CVE-2018-8039|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-8088|slf4j-api|2018-10-03 13:28|slf4j-api doesn't use EventData class
 CVE-2018-1000011|findbugs|2018-10-03 09:36|False-positive; this is a Jenkins plugin, not the one used by esg-search.
+CVE-2018-10828|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-11039|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-11040|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1229|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
@@ -1270,6 +1308,7 @@ CVE-2018-13145|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2675|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2876|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2018-5761|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-7753|bleach|2018-10-03 11:58|affects only versionss 2.1, 2.1.1, and 2.1.2
 CVE-2018-8119|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2017-10104|java|2018-10-08 14:29|Unrelated products/vendors
@@ -1286,14 +1325,22 @@ CVE-2017-12621|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2017-12881|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-12882|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-13990|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2017-15293|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2017-15295|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-15708|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2017-3203|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-3503|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2017-5586|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2017-5644|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-5682|cryptography|2018-10-03 11:05|false-positive; unrelated product by Intel
 CVE-2017-8045|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-8806|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2017-9801|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2016-0223|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2016-0369|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2016-0370|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2016-0603|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2016-0708|cf-release|2018-10-12 07:52|false-positive on apache tomcat
 CVE-2016-0766|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2016-10075|tqdm|2018-10-03 09:55|deployed version unaffected
 CVE-2016-1114|Apache Commons|2018-10-11 14:21|unrelated products, old versions
@@ -1308,6 +1355,7 @@ CVE-2016-2003|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-2009|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-2170|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-2173|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2016-2884|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-3090|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-3642|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-3979|java|2018-10-08 14:29|Unrelated products/vendors
@@ -1321,6 +1369,7 @@ CVE-2016-4385|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-4405|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-4461|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-4977|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2016-6001|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-6652|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2016-6795|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-8738|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
@@ -1340,19 +1389,28 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2018-11784|tomcat|2018-10-12 07:49|Old versions
+CVE-2006-0614|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2009-0877|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2009-1218|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2009-1219|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2009-1357|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2009-1719|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2009-1729|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2009-3548|tomcat|2018-10-11 14:00|CVEs against older versions
+CVE-2010-0850|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2010-1227|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2010-3700|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2010-4332|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2010-4333|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2013-6235|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2014-0111|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2008-2234|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2008-2751|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-3115|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2008-3551|java|2018-10-12 06:29|CVEs against older versions
 CVE-2008-4910|java|2018-10-12 06:29|CVEs against older versions
 CVE-2008-5115|java|2018-10-12 06:29|CVEs against older versions
 CVE-2008-5116|java|2018-10-12 06:29|CVEs against older versions
 CVE-2008-5266|java|2018-10-12 06:29|CVEs against older versions
-CVE-2009-0877|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2009-1218|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2009-1219|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2009-1357|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2009-1729|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2009-3548|tomcat|2018-10-11 14:00|CVEs against older versions
-CVE-2010-1227|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2010-3700|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
-CVE-2013-6235|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2014-0111|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2008-7084|Misc|2018-10-12 09:47|Old versions, unrelated products
