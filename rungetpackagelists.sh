@@ -5,10 +5,20 @@ if [ $# -lt 1 ]; then
     exit -1
 fi
 esgfhost=$1
+esgfuser=$2
 
-scp getpackagelists.sh root@${esgfhost}:
-ssh -l root ${esgfhost} bash /root/getpackagelists.sh
-scp root@${esgfhost}:/root/packagelists.tgz .
+if [ "$esgfuser" = "" ]; then
+    esgfuser="root"
+fi
+scp getpackagelists.sh $esgfuser@${esgfhost}:
+if [ "$esgfuser" != "root" ]; then
+    ssh -l $esgfuser ${esgfhost} sudo bash /home/$esgfuser/getpackagelists.sh
+    ssh -l $esgfuser ${esgfhost} sudo cp /root/packagelists.tgz /home/$esgfuser/
+    scp ${esgfuser}@${esgfhost}:/home/$esgfuser/packagelists.tgz .
+else
+    ssh -l root ${esgfhost} bash /root/getpackagelists.sh
+    scp root@${esgfhost}:/root/packagelists.tgz .
+fi
 
 if [ ! -s packagelists.tgz ]; then
     echo "Problem retrieving packagelists";
