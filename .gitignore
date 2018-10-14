@@ -6,9 +6,10 @@ pub_packages
 runcvechecker.sh
 *.out
 lasjars
-solr_serverjars
-solr_webappjars
 esgf_excludes
+expungelist
 esgf_keywords
 esgf_manual
+solr_jars
+packagelists.tgz
 
