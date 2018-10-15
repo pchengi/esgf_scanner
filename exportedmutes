@@ -1393,6 +1393,12 @@ CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2006-0614|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2013-6235|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2014-0111|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-1999-0007|certifi|2018-10-15 09:12|unrelated product
+CVE-1999-0766|java|2018-10-15 09:07|old versions
+CVE-2002-0058|java|2018-10-15 09:07|old versions
+CVE-2002-0076|java|2018-10-15 09:07|old versions
+CVE-2002-1292|java|2018-10-15 09:07|old versions
+CVE-2002-1295|java|2018-10-15 09:07|old versions
 CVE-2008-2234|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2008-2751|java|2018-10-12 06:29|CVEs against older versions
 CVE-2008-3115|Misc|2018-10-12 09:47|Old versions, unrelated products
@@ -1414,3 +1420,4 @@ CVE-2010-1227|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2010-3700|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2010-4332|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2010-4333|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2011-1892|forms|2018-10-15 09:11|unrelated product

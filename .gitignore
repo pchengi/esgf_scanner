@@ -1,9 +1,9 @@
 cog_packages
-cog_packages.out
 esgf.conf
 jarlist
 pub_packages
 runcvechecker.sh
+*.report
 *.out
 lasjars
 esgf_excludes
@@ -12,4 +12,4 @@ esgf_keywords
 esgf_manual
 solr_jars
 packagelists.tgz
-
+latestcves
