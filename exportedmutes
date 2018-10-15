@@ -116,7 +116,7 @@ CVE-2008-5360|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2008-5515|Misc|2018-10-12 05:43|CVEs against old versions
 CVE-2008-5519|tomcat|2018-10-12 07:49|Old versions
 CVE-2009-0033|Misc|2018-10-12 05:43|CVEs against old versions
-CVE-2009-0217|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
+CVE-2009-0217|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2009-0580|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2009-0581|java|2018-10-11 13:38|Older versions
 CVE-2009-0723|java|2018-10-11 13:38|Older versions
@@ -169,7 +169,7 @@ CVE-2009-2902|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2009-3229|postgresql|2018-10-11 14:03|CVEs prior to 2015
 CVE-2009-3230|postgresql|2018-10-11 14:03|CVEs prior to 2015
 CVE-2009-3231|postgresql|2018-10-11 14:03|CVEs prior to 2015
-CVE-2009-3555|Misc|2018-10-12 05:43|CVEs against old versions
+CVE-2009-3555|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2009-3728|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2009-3729|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2009-3865|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
@@ -324,7 +324,7 @@ CVE-2011-3190|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2011-3375|tomcat|2018-10-01 21:03|pchengi: CVEs against older versions
 CVE-2011-3377|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2011-3387|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
-CVE-2011-3389|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
+CVE-2011-3389|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2011-3516|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2011-3521|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
 CVE-2011-3544|java|2018-10-01 20:55|CVEs against java prior to Jan 1 2015
@@ -1071,7 +1071,7 @@ CVE-2016-6797|tomcat|2018-10-08 14:53|CVEs against older versions
 CVE-2016-6808|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2016-6816|tomcat|2018-10-09 11:04|CVEs against older versions
 CVE-2016-6817|tomcat|2018-10-09 11:04|CVEs against older versions
-CVE-2016-7048|postgresql|2018-09-28 11:23|Current version is unaffected.
+CVE-2016-7048|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2016-7070|postgresql|2018-09-28 11:25|Vulnerability not related to postgresql, but Ansible Tower.
 CVE-2016-7401|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-8328|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
@@ -1212,8 +1212,9 @@ CVE-2018-1067|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-10925|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2018-1115|postgresql|2018-09-28 14:41|Not affected/not relevant
-CVE-2018-11771|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-11776|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2018-11784|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-12539|java|2018-10-08 14:20|CVEs against older versions
@@ -1289,7 +1290,7 @@ CVE-2018-8010|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2018-8012|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-8014|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-8019|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
-CVE-2018-8020|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2018-8020|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-8026|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2018-8034|tomcat|2018-10-12 07:49|Old versions
 CVE-2018-8037|tomcat|2018-10-12 07:49|Old versions
@@ -1389,8 +1390,18 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
-CVE-2018-11784|tomcat|2018-10-12 07:49|Old versions
 CVE-2006-0614|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2013-6235|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2014-0111|Apache Commons|2018-10-11 14:21|unrelated products, old versions
+CVE-2008-2234|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2008-2751|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-3115|Misc|2018-10-12 09:47|Old versions, unrelated products
+CVE-2008-3551|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-4910|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5115|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5116|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-5266|java|2018-10-12 06:29|CVEs against older versions
+CVE-2008-7084|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2009-0877|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2009-1218|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2009-1219|java|2018-10-11 13:50|old versions and unrelated products
@@ -1403,14 +1414,3 @@ CVE-2010-1227|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2010-3700|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2010-4332|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2010-4333|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2013-6235|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2014-0111|Apache Commons|2018-10-11 14:21|unrelated products, old versions
-CVE-2008-2234|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2008-2751|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-3115|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2008-3551|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-4910|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-5115|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-5116|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-5266|java|2018-10-12 06:29|CVEs against older versions
-CVE-2008-7084|Misc|2018-10-12 09:47|Old versions, unrelated products
