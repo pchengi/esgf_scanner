@@ -388,6 +388,7 @@ CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-16435|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-1656|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-2579|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2581|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2582|java|2018-10-08 14:20|CVEs against older versions
@@ -454,7 +455,6 @@ CVE-2018-12432|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-1256|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-13088|future|2018-10-03 11:59|false-positive hit on unrelated product futures_pease
 CVE-2018-13145|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2675|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2876|Apache Commons|2018-10-11 14:21|unrelated products, old versions
@@ -475,6 +475,7 @@ CVE-2017-12621|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2017-12881|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-12882|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-13990|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
+CVE-2017-14735|antisamy|2018-10-16 19:46|CVEs against older versions
 CVE-2017-15293|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-15295|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-15708|Apache Commons|2018-10-11 14:21|unrelated products, old versions
@@ -492,6 +493,7 @@ CVE-2016-0370|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-0603|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-0708|cf-release|2018-10-12 07:52|false-positive on apache tomcat
 CVE-2016-0766|postgresql|2018-09-28 14:41|Not affected/not relevant
+CVE-2016-10006|antisamy|2018-10-16 19:46|CVEs against older versions
 CVE-2016-10075|tqdm|2018-10-03 09:55|deployed version unaffected
 CVE-2016-1114|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-1255|postgresql|2018-09-28 14:41|Not affected/not relevant
