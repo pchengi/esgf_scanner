@@ -13,3 +13,5 @@ esgf_manual
 solr_jars
 packagelists.tgz
 latestcves
+esgf_version
+manifest.md

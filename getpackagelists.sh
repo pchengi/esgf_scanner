@@ -8,8 +8,9 @@ export LD_LIBRARY_PATH=/opt/esgf/python/lib:/opt/esgf/python/lib/python2.7:/opt/
 source /usr/local/conda/bin/activate esgf-pub
 pip freeze >/root/pub_packages
 cd /root
-for i in cog_packages pub_packages lasjars jarlist solr_jars; do
+/usr/local/bin/esg-node --version >esgf_version
+for i in cog_packages pub_packages lasjars jarlist solr_jars esgf_version; do
     touch $i;
 done
-tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars
-
+tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version
+rm -f cog_packages pub_packages lasjars jarlist solr_jars esgf_version
