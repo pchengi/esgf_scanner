@@ -12,5 +12,26 @@ cd /root
 for i in cog_packages pub_packages lasjars jarlist solr_jars esgf_version; do
     touch $i;
 done
-tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version
-rm -f cog_packages pub_packages lasjars jarlist solr_jars esgf_version
+echo "# Tomcat Webapps" >manifest.md
+echo "" >>manifest.md
+cat jarlist >>manifest.md
+echo "" >>manifest.md
+echo "# Solr jars" >>manifest.md
+echo "" >>manifest.md
+cat solr_jars >>manifest.md
+echo "" >>manifest.md
+echo "# LAS jars" >>manifest.md
+echo "" >>manifest.md
+cat lasjars >>manifest.md
+echo "" >>manifest.md
+echo "# Cog Packages" >>manifest.md
+echo "" >>manifest.md
+cat cog_packages >>manifest.md
+echo "" >>manifest.md
+echo "# Publisher Packages" >>manifest.md
+echo "" >>manifest.md
+cat cog_packages >>manifest.md
+echo "" >>manifest.md
+
+tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version manifest.md
+rm -f cog_packages pub_packages lasjars jarlist solr_jars esgf_version manifest.md
