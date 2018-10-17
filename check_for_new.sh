@@ -7,7 +7,9 @@ if [ "$reportfile" = "" ]; then
 fi
 bash cvechecker/getcvelist.sh $reportfile one-per-line >latestcves
 while read cve; do
-    if ! grep $cve ack >/dev/null; then
-        echo "$cve";
+    if ! grep -w $cve ack >/dev/null; then
+            if ! grep -w $cve exportedmutes >/dev/null; then
+                echo "$cve";
+            fi
     fi
 done <latestcves
