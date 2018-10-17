@@ -20,6 +20,7 @@ for i in cog_packages pub_packages jarlist lasjars solr_jars; do
         echo $pkg|cut -d '=' -f1|perl -pe 's|(.*?)-[0-9].*|\1|' >>$i.out
     done <$i
 done
+cat esgf_manual cog_packages.out jarlist.out pub_packages.out lasjars.out solr_jars.out|sort -u >packages-oneperline
 packages=`cat esgf_manual cog_packages.out jarlist.out pub_packages.out lasjars.out solr_jars.out|sort -u|paste -sd,`
 echo $packages >packages
 while read ln; do
