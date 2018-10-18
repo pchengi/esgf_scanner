@@ -19,14 +19,14 @@ sender=`grep alertmail_sender esgf_scanner.conf|cut -d '=' -f2`
 port=`grep mailserver_port esgf_scanner.conf|cut -d '=' -f2`
 server=`grep mailserver_host esgf_scanner.conf|cut -d '=' -f2`
 
-#git pull >/dev/null && git submodule init >/dev/null && git submodule update >/dev/null
+git pull >/dev/null && git submodule init >/dev/null && git submodule update >/dev/null
 bash firstuse.sh
 bash generate_esgfconf.sh
 cp esgf.conf exportedmutes cvechecker
 cp ack cvechecker/pinned_cves
 cd cvechecker
-rm unmutable
-#python3 cvechecker.py -u >>runlog-esgf_scanner
+echo -n > unmutable
+python3 cvechecker.py -u >>runlog-esgf_scanner
 python3 cvechecker.py -i exportedmutes >muting_transcript
 if [ -s muting_transcript ]; then
 	cat muting_transcript|awk '{print $4}' >unmutable
@@ -59,27 +59,34 @@ if [ -s cvechecker/unmutable ]; then
     done <cvechecker/unmutable
     if [ "$outdatedcves" != "" ]; then
         cd cvechecker 
-        python3 cvechecker.py -c $outdatedcves >../outdatedcvesreport.txt
+        python3 cvechecker.py -c $outdatedcves >../outdatedcves_report.txt
         cd ..
-        echo "We are asking to mute the following CVEs which are not showing up against any configured products. Perhaps these are candidates for removal from exported mutes?";
-        echo "$outdatedcves";
+        echo "We are asking to mute the following CVEs which are not showing up against any configured products. Perhaps these are candidates for removal from exported mutes?" >body;
+        echo "$outdatedcves" >>body;
         echo "$outdatedcves" >outdatedcves_list.txt;
+        subj='Remove from exportedmutes'
+        python mailsend.py --sender "$sender" --recips "$recips" --server $server --subject "$subj" --port $port --body body --attachments outdatedcves_list.txt,outdatedcves_report.txt
     fi
     if [ "$updatedcves" != "" ]; then
         cd cvechecker
-        python3 cvechecker.py -c $updatedcves >../updatedcvesreport.txt
+        python3 cvechecker.py -c $updatedcves >../updatedcves_report.txt
         cd ..
-        echo "We are asking to mute the following CVEs which seem to have been updated";
-        echo "$updatedcves";
+        echo "We are asking to mute the following CVEs which seem to have been updated" >body;
+        echo "$updatedcves" >>body;
         echo "$updatedcves" >updatedcves_list.txt;
+        subj='Updated muted CVEs'
+        python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments updatedcves_list.txt,updatedcves_report.txt
     fi
 fi
 if [ -s newcves ]; then
-    echo "We have new CVE hits against our packages."
+    echo "We have new CVE hits against our packages." >body
     newcvelist=`cat newcves|paste -sd,`
-    echo $newcvelist
+    echo $newcvelist >>body
+    echo $newcvelist >newcves_list.txt;
     cd cvechecker
-    python3 cvechecker.py -c $newcvelist >../newcvereport.txt
+    python3 cvechecker.py -c $newcvelist >../newcves_report.txt
     cd ..
+    subj='New CVEs against ESGF'
+    python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments newcves_list.txt,newcves_report.txt
 fi
 rm esgfscannerrun
