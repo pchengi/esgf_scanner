@@ -63,9 +63,10 @@ if [ -s cvechecker/unmutable ]; then
         cd ..
         echo "We are asking to mute the following CVEs which are not showing up against any configured products. Perhaps these are candidates for removal from exported mutes?" >body;
         echo "$outdatedcves" >>body;
+        cat outdatedcves_report.txt >>body
         echo "$outdatedcves" >outdatedcves_list.txt;
         subj='Remove from exportedmutes'
-        python mailsend.py --sender "$sender" --recips "$recips" --server $server --subject "$subj" --port $port --body body --attachments outdatedcves_list.txt,outdatedcves_report.txt
+        python mailsend.py --sender "$sender" --recips "$recips" --server $server --subject "$subj" --port $port --body body --attachments outdatedcves_list.txt
     fi
     if [ "$updatedcves" != "" ]; then
         cd cvechecker
@@ -73,25 +74,26 @@ if [ -s cvechecker/unmutable ]; then
         cd ..
         echo "We are asking to mute the following CVEs which seem to have been updated" >body;
         echo "$updatedcves" >>body;
+        cat updatedcves_report.txt >>body
         echo "$updatedcves" >updatedcves_list.txt;
         subj='Update muted CVEs'
-        python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments updatedcves_list.txt,updatedcves_report.txt
+        python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments updatedcves_list.txt
     fi
 fi
 if [ -s newcves ]; then
     echo "We have new CVE hits against our packages." >body
     newcvelist=`cat newcves|paste -sd,`
-    echo $newcvelist >>body
-    echo $newcvelist >newcves_list.txt;
     cd cvechecker
     python3 cvechecker.py -c $newcvelist >../newcves_report.txt
     cd ..
+    echo $newcvelist >>body
+    cat newcves_report.txt >>body
+    echo $newcvelist >newcves_list.txt;
     subj='New CVEs against ESGF'
-    python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments newcves_list.txt,newcves_report.txt
+    python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments newcves_list.txt
 fi
 cd cvechecker
 rm muting_transcript unmutable
 mv esgfreport.txt ..
 cd ..
 rm esgfscannerrun
-
