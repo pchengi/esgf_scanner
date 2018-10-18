@@ -74,7 +74,7 @@ if [ -s cvechecker/unmutable ]; then
         echo "We are asking to mute the following CVEs which seem to have been updated" >body;
         echo "$updatedcves" >>body;
         echo "$updatedcves" >updatedcves_list.txt;
-        subj='Updated muted CVEs'
+        subj='Update muted CVEs'
         python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments updatedcves_list.txt,updatedcves_report.txt
     fi
 fi
