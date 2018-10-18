@@ -26,7 +26,7 @@ cp esgf.conf exportedmutes cvechecker
 cp ack cvechecker/pinned_cves
 cd cvechecker
 echo -n > unmutable
-python3 cvechecker.py -u >>runlog-esgf_scanner
+python3 cvechecker.py -u >> ../runlog-esgf_scanner
 python3 cvechecker.py -i exportedmutes >muting_transcript
 if [ -s muting_transcript ]; then
 	cat muting_transcript|awk '{print $4}' >unmutable
@@ -89,4 +89,9 @@ if [ -s newcves ]; then
     subj='New CVEs against ESGF'
     python mailsend.py --sender "$sender" --subject "$subj" --recips "$recips" --server $server --port $port --body body --attachments newcves_list.txt,newcves_report.txt
 fi
+cd cvechecker
+rm muting_transcript unmutable
+mv esgfreport.txt ..
+cd ..
 rm esgfscannerrun
+
