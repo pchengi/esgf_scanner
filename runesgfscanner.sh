@@ -31,7 +31,6 @@ python3 cvechecker.py -d -m off
 python3 cvechecker.py -i exportedmutes >muting_transcript
 if [ -s muting_transcript ]; then
 	cat muting_transcript|awk '{print $4}' >unmutable
-    cat unmutable|paste -sd, >unmutable_cvelist
 fi
 python3 cvechecker.py -r esgf.conf >esgfreport.txt
 cd ..
