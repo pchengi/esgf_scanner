@@ -232,7 +232,7 @@ CVE-2016-9243|python-cryptography|2018-10-03 11:05|old version
 CVE-2016-9840|Misc|2018-10-17 11:33|older versions
 CVE-2016-9841|Misc|2018-10-17 11:33|older versions
 CVE-2016-9842|Misc|2018-10-17 11:33|older versions
-CVE-2016-9843|Misc|2018-10-17 11:33|older versions
+CVE-2016-9843|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2016-9878|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2016-9879|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-1000061|Misc|2018-10-11 14:46|old versions
@@ -358,13 +358,13 @@ CVE-2018-1053|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1067|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
-CVE-2018-11776|Misc|2018-10-17 11:33|older versions
+CVE-2018-11776|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-11784|tomcat|2018-10-16 11:43|old version
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
-CVE-2018-12539|java|2018-10-19 08:20|CVEs against older versions
+CVE-2018-12539|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-1257|Misc|2018-10-17 11:33|older versions
-CVE-2018-1258|Misc|2018-10-17 11:33|older versions
+CVE-2018-1258|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-1259|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1260|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-1270|Misc|2018-10-18 13:04|Batch-mute
@@ -380,7 +380,7 @@ CVE-2018-1323|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2018-1324|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1336|Misc|2018-10-18 13:04|Batch-mute
-CVE-2018-13785|Misc|2018-10-18 12:37|old versions
+CVE-2018-13785|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|java|2018-10-08 14:20|CVEs against older versions
@@ -434,7 +434,7 @@ CVE-2018-7536|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-7537|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-8010|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2018-8012|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2018-8014|Misc|2018-10-17 11:33|older versions
+CVE-2018-8014|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-8019|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-8020|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-8026|Lucene Solr|2018-10-03 14:42|old versions
