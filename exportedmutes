@@ -357,14 +357,12 @@ CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1053|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1067|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
-CVE-2018-10925|postgresql|2018-09-28 14:41|Not affected/not relevant
-CVE-2018-1115|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-11776|Misc|2018-10-17 11:33|older versions
 CVE-2018-11784|tomcat|2018-10-16 11:43|old version
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
-CVE-2018-12539|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-12539|java|2018-10-19 08:20|CVEs against older versions
 CVE-2018-1257|Misc|2018-10-17 11:33|older versions
 CVE-2018-1258|Misc|2018-10-17 11:33|older versions
 CVE-2018-1259|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
