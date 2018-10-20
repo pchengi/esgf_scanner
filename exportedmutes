@@ -146,6 +146,7 @@ CVE-2016-0763|tomcat|2018-10-08 14:53|CVEs against older versions
 CVE-2016-0773|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2016-0785|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-1000027|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2016-1000031|commons-fileupload|2018-10-20 11:59|CVE against version 1.3.2
 CVE-2016-10165|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2016-1181|Misc|2018-10-17 11:33|older versions
 CVE-2016-1182|Misc|2018-10-17 11:33|older versions
@@ -386,6 +387,7 @@ CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-16435|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-1656|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-2579|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2581|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2582|java|2018-10-08 14:20|CVEs against older versions
@@ -454,7 +456,6 @@ CVE-2018-12432|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-1256|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-13088|future|2018-10-03 11:59|false-positive hit on unrelated product futures_pease
 CVE-2018-13145|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2675|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2876|Apache Commons|2018-10-11 14:21|unrelated products, old versions
@@ -541,3 +542,12 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2018-3136|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3139|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3149|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3169|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3180|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3183|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3209|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3211|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3214|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
