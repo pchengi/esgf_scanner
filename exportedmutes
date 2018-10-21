@@ -495,7 +495,6 @@ CVE-2016-0603|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-0708|cf-release|2018-10-12 07:52|false-positive on apache tomcat
 CVE-2016-0766|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2016-10006|antisamy|2018-10-16 19:46|CVEs against older versions
-CVE-2016-10075|tqdm|2018-10-03 09:55|deployed version unaffected
 CVE-2016-1114|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-1255|postgresql|2018-09-28 14:41|Not affected/not relevant
 CVE-2016-1985|Apache Commons|2018-10-11 14:21|unrelated products, old versions
