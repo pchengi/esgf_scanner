@@ -547,6 +547,6 @@ CVE-2018-3149|java|2018-10-22 18:49|old version; unmuted on 22 october due to in
 CVE-2018-3169|java|2018-10-22 18:49|old version; unmuted on 22 october due to inconsequential update in CVE description (an extra comma)
 CVE-2018-3180|java|2018-10-22 18:49|old version; unmuted on 22 october due to inconsequential update in CVE description (an extra comma)
 CVE-2018-3183|java|2018-10-22 18:49|old version; unmuted on 22 october due to inconsequential update in CVE description (an extra comma)
-CVE-2018-3209|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
-CVE-2018-3211|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
-CVE-2018-3214|java|2018-10-20 11:57|CVEs against jdk8u-181 and older
+CVE-2018-3209|java|2018-10-23 06:20|old versions; had got unmuted on 22 october due to minor and inconsequential changes in the CVE description (replacing a comma with a period)
+CVE-2018-3211|java|2018-10-23 06:20|old versions; had got unmuted on 22 october due to minor and inconsequential changes in the CVE description (replacing a comma with a period)
+CVE-2018-3214|java|2018-10-23 06:20|old versions; had got unmuted on 22 october due to minor and inconsequential changes in the CVE description (replacing a comma with a period)
