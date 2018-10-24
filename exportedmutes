@@ -154,7 +154,7 @@ CVE-2016-1240|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2016-2048|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-2162|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-2175|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2016-2183|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2016-2183|java|2018-10-24 07:20|old versions and unrelated products
 CVE-2016-2193|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2016-2512|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-2513|django|2018-09-27 21:58|vulnerabilities against very old versions of django
@@ -384,7 +384,7 @@ CVE-2018-1336|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-13785|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2018-1517|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-1517|java|2018-10-24 07:20|CVE against IBM SDK
 CVE-2018-16435|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-1656|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2579|java|2018-10-08 14:20|CVEs against older versions
@@ -429,7 +429,7 @@ CVE-2018-2952|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2964|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2972|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2973|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-3639|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
+CVE-2018-3639|java|2018-10-24 07:20|previously muted cves (old version) unmuted on 24 october for additional references
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
 CVE-2018-7536|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-7537|Misc|2018-10-18 13:04|Batch-mute
