@@ -19,7 +19,7 @@ sender=`grep alertmail_sender esgf_scanner.conf|cut -d '=' -f2`
 port=`grep mailserver_port esgf_scanner.conf|cut -d '=' -f2`
 server=`grep mailserver_host esgf_scanner.conf|cut -d '=' -f2`
 
-git pull >/dev/null && git submodule init >/dev/null && git submodule update >/dev/null
+git pull >>runlog-esgf_scanner && git submodule init >>runlog-esgf_scanner && git submodule update >>runlog-esgf_scanner
 bash firstuse.sh
 bash generate_esgfconf.sh
 cp esgf.conf exportedmutes cvechecker
