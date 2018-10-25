@@ -381,11 +381,11 @@ CVE-2018-1323|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2018-1324|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1336|Misc|2018-10-18 13:04|Batch-mute
-CVE-2018-13785|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
+CVE-2018-13785|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|java|2018-10-24 07:20|CVE against IBM SDK
-CVE-2018-16435|java|2018-10-08 14:20|CVEs against older versions
+CVE-2018-16435|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-1656|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2579|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-2581|java|2018-10-08 14:20|CVEs against older versions
@@ -422,13 +422,13 @@ CVE-2018-2815|java|2018-10-12 06:29|CVEs against older versions
 CVE-2018-2825|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2826|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2938|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-2940|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2018-2940|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-2941|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2942|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-2952|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2018-2952|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-2964|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2972|java|2018-10-11 13:50|old versions and unrelated products
-CVE-2018-2973|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2018-2973|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3639|java|2018-10-24 07:20|previously muted cves (old version) unmuted on 24 october for additional references
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
 CVE-2018-7536|Misc|2018-10-18 13:04|Batch-mute
@@ -541,14 +541,15 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
-CVE-2018-3136|java|2018-10-22 18:49|old version; unmuted on 22 october due to inconsequential update in CVE description (an extra comma)
-CVE-2018-3139|java|2018-10-22 18:49|old version; unmuted on 22 october due to inconsequential update in CVE description (an extra comma)
-CVE-2018-3149|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3169|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3180|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3183|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3209|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3211|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
-CVE-2018-3214|java|2018-10-23 15:43|previously muted cves (old version) unmuted on 23 october for score assigment (previously no scores were assigned)
+CVE-2018-3136|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3139|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3149|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3169|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3180|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3183|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3209|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3211|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3214|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3150|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
+CVE-2018-15758|spring-security-oauth|2018-10-25 14:02|product not used
