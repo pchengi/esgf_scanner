@@ -9,7 +9,9 @@ source /usr/local/conda/bin/activate esgf-pub
 pip freeze >/root/pub_packages
 cd /root
 /usr/local/bin/esg-node --version >esgf_version
-for i in cog_packages pub_packages lasjars jarlist solr_jars esgf_version; do
+cp /usr/local/solr/pre_replacement_solr_jarlist.txt .
+cp /usr/local/solr/post_replacement_solr_jarlist.txt .
+for i in cog_packages pub_packages lasjars jarlist solr_jars esgf_version pre_replacement_solr_jarlist.txt post_replacement_solr_jarlist.txt; do
     touch $i;
 done
 echo "# Tomcat Webapps" >manifest.md
@@ -33,5 +35,5 @@ echo "" >>manifest.md
 cat cog_packages >>manifest.md
 echo "" >>manifest.md
 
-tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version manifest.md
-rm -f cog_packages pub_packages lasjars jarlist solr_jars esgf_version manifest.md
+tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version post_replacement_solr_jarlist.txt pre_replacement_solr_jarlist.txt manifest.md
+rm -f cog_packages pub_packages lasjars jarlist solr_jars esgf_version pre_replacement_solr_jarlist.txt post_replacement_solr_jarlist.txt manifest.md
