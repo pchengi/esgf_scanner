@@ -455,6 +455,7 @@ CVE-2018-12432|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-1256|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-13088|future|2018-10-03 11:59|false-positive hit on unrelated product futures_pease
 CVE-2018-13145|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2018-16552|django-crm|2018-10-26 08:00|product not used
 CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2675|java|2018-10-08 14:29|Unrelated products/vendors
@@ -541,16 +542,15 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
-CVE-2018-3136|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3139|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3149|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3169|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3180|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3183|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3136|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
+CVE-2018-3139|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
+CVE-2018-3149|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
+CVE-2018-3169|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
+CVE-2018-3180|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
+CVE-2018-3183|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
 CVE-2018-3209|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3211|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3214|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
+CVE-2018-3214|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
 CVE-2018-3150|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-15758|spring-security-oauth|2018-10-25 14:02|product not used
-CVE-2018-16552|django-crm|2018-10-26 08:00|product not used
