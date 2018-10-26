@@ -292,6 +292,9 @@ CVE-2017-12794|django|2018-09-27 22:07|Vulnerable only if server is run with DEB
 CVE-2017-12852|numpy|2018-10-03 11:41|old versions
 CVE-2017-1289|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-1376|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
+CVE-2017-14868|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2017-14949|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2017-15095|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2017-15097|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15098|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15099|postgresql|2018-09-28 11:33|Benign/not-applicable
@@ -299,6 +302,7 @@ CVE-2017-15698|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated
 CVE-2017-15706|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-15707|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-16853|Misc|2018-10-11 14:46|old versions
+CVE-2017-17485|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2017-3163|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-3231|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-3241|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
@@ -335,6 +339,7 @@ CVE-2017-7465|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2017-7484|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-7485|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-7486|postgresql|2018-09-28 11:37|Not applicable
+CVE-2017-7525|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2017-7536|Misc|2018-10-18 13:04|Batch-mute
 CVE-2017-7546|postgresql|2018-09-28 14:26|Fixed
 CVE-2017-7547|postgresql|2018-09-28 14:32|Not affected
@@ -354,6 +359,8 @@ CVE-2017-9804|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9805|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2018-0486|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1000056|junit|2018-10-03 12:01|false-positive hit on unrelated product Jenkins Junit Plugin
+CVE-2018-1000632|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2018-10237|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1053|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-1067|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
@@ -430,7 +437,9 @@ CVE-2018-2964|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2972|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2973|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3639|java|2018-10-24 07:20|previously muted cves (old version) unmuted on 24 october for additional references
+CVE-2018-5968|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
+CVE-2018-7489|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-7536|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-7537|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-8010|Lucene Solr|2018-10-03 14:42|old versions
@@ -553,4 +562,5 @@ CVE-2018-3211|java|2018-10-25 14:00|old versions, unmuted after reference update
 CVE-2018-3214|java|2018-10-26 13:40|old versions; unmuted on 26 october due to reference section updates
 CVE-2018-3150|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
+CVE-2018-15756|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-15758|spring-security-oauth|2018-10-25 14:02|product not used
