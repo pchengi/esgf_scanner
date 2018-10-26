@@ -553,3 +553,4 @@ CVE-2018-3214|java|2018-10-25 14:00|old versions, unmuted after reference update
 CVE-2018-3150|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-15758|spring-security-oauth|2018-10-25 14:02|product not used
+CVE-2018-16552|django-crm|2018-10-26 08:00|product not used
