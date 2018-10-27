@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd /usr/local/las-esgf && find . -name '*.jar' >/root/lasjars
-cd /usr/local/tomcat/webapps && find . -name '*.jar' >/root/jarlist
-cd /usr/local/solr && find . -name '*.jar' >/root/solr_jars
+cd /usr/local/las-esgf && find . -name '*.jar'|sort >/root/lasjars
+cd /usr/local/tomcat/webapps && find . -name '*.jar'|sort >/root/jarlist
+cd /usr/local/solr && find . -name '*.jar'|sort >/root/solr_jars
 export LD_LIBRARY_PATH=/opt/esgf/python/lib:/opt/esgf/python/lib/python2.7:/opt/esgf/python/lib/python2.7/site-packages/mod_wsgi/server
 /usr/local/cog/venv/bin/pip freeze >/root/cog_packages
 source /usr/local/conda/bin/activate esgf-pub
