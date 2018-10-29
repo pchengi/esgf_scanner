@@ -594,4 +594,12 @@ CVE-2017-7662|cxf|2018-10-29 08:00|false-positive
 CVE-2016-3086|hadoop|2018-10-29 08:00|old version
 CVE-2017-3166|hadoop|2018-10-29 08:00|old version
 CVE-2017-7565|hadoop|2018-10-29 08:00|unrelated product
+CVE-2015-7430|hadoop|2018-10-29 08:00|unrelated product
 CVE-2017-7669|hadoop|2018-10-29 08:00|different version
+CVE-2018-8038|cxf|2018-10-29 08:00|false-positive
+CVE-2016-4464|cxf|2018-10-29 08:00|false-positive
+CVE-2015-5175|cxf|2018-10-29 08:00|false-positive
+CVE-2016-5001|hadoop|2018-10-29 08:00|old version
+CVE-2016-5393|hadoop|2018-10-29 08:00|old version
+CVE-2016-6811|hadoop|2018-10-29 08:00|old version
+CVE-2015-1776|hadoop|2018-10-29 08:00|old version
