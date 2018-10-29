@@ -3,6 +3,7 @@ esgf.conf
 jarlist
 pub_packages
 runcvechecker.sh
+packages-oneperline
 *.report
 *.out
 lasjars

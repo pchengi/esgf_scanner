@@ -581,3 +581,17 @@ CVE-2018-3150|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
 CVE-2018-15756|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-15758|spring-security-oauth|2018-10-25 14:02|product not used
+CVE-2017-5662|batik|2018-10-29 08:00|old version
+CVE-2018-12536|jetty|2018-10-29 08:00|not exploitable
+CVE-2018-12538|jetty|2018-10-29 08:00|wrong version series
+CVE-2018-10597|avalon|2018-10-29 08:00|false-positive
+CVE-2018-10599|avalon|2018-10-29 08:00|false-positive
+CVE-2018-10601|avalon|2018-10-29 08:00|false-positive
+CVE-2018-13503|south|2018-10-29 08:00|false-positive
+CVE-2017-12631|cxf|2018-10-29 08:00|false-positive
+CVE-2017-7661|cxf|2018-10-29 08:00|false-positive
+CVE-2017-7662|cxf|2018-10-29 08:00|false-positive
+CVE-2016-3086|hadoop|2018-10-29 08:00|old version
+CVE-2017-3166|hadoop|2018-10-29 08:00|old version
+CVE-2017-7565|hadoop|2018-10-29 08:00|unrelated product
+CVE-2017-7669|hadoop|2018-10-29 08:00|different version
