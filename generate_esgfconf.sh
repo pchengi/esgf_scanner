@@ -12,12 +12,12 @@ for i in cog_packages pub_packages jarlist lasjars solr_jars; do
     fi
     while read ln; do
         pkg=`basename $ln`;
-        pkg_processed=`echo $pkg|cut -d '=' -f1|perl -pe 's|(.*?)-[0-9].*|\1|'`
+        pkg_processed=`echo $pkg|cut -d '=' -f1|sed "s/-[0-9].*//"g`
         len=`echo $pkg_processed|wc -c`;
         if [ $len -le 3 ]; then
             continue;
         fi
-        echo $pkg|cut -d '=' -f1|perl -pe 's|(.*?)-[0-9].*|\1|' >>$i.out
+        echo $pkg_processed >>$i.out
     done <$i
 done
 cat esgf_manual cog_packages.out jarlist.out pub_packages.out lasjars.out solr_jars.out|sort -u >packages-oneperline
