@@ -161,6 +161,7 @@ CVE-2016-2162|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-2175|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-2183|java|2018-10-24 07:20|old versions and unrelated products
 CVE-2016-2193|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
+CVE-2016-2510|bsh|2018-12-05 06:15|CVE against older version. Newer version used in ESGF 2.8b7
 CVE-2016-2512|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-2513|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2016-2533|misc|2018-10-27 11:54|old versions
