@@ -481,6 +481,7 @@ CVE-2018-3183|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference u
 CVE-2018-3209|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3211|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3214|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3258|mysql-connector-java|2018-12-05 14:37|CVE against versions older than 8.0.12; esgf uses an updated version
 CVE-2018-3639|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-5968|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
