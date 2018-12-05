@@ -5,10 +5,6 @@ CVE-2015-0219|django|2018-09-27 21:58|vulnerabilities against very old versions 
 CVE-2015-0220|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-0221|django|2018-09-27 21:58|vulnerabilities against very old versions of django
 CVE-2015-0222|django|2018-09-27 21:58|vulnerabilities against very old versions of django
-CVE-2015-0241|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
-CVE-2015-0242|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
-CVE-2015-0243|postgresql|2018-09-28 11:23|Current version is unaffected.
-CVE-2015-0244|postgresql|2018-09-27 22:43|Current version is unaffected. Check before upgrading.
 CVE-2015-0250|misc|2018-10-27 11:54|old versions
 CVE-2015-0254|tomcat|2018-10-11 14:00|CVEs against older versions
 CVE-2015-0383|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
