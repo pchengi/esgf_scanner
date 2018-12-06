@@ -26,6 +26,7 @@ cp esgf.conf exportedmutes cvechecker
 cp ack cvechecker/pinned_cves
 cd cvechecker
 echo -n > unmutable
+bash firstuse.sh
 python3 cvechecker.py -u >> ../runlog-esgf_scanner
 python3 cvechecker.py -d -m off
 python3 cvechecker.py -i exportedmutes >muting_transcript
