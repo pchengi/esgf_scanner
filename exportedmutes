@@ -413,7 +413,7 @@ CVE-2018-1323|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2018-1324|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1336|tomcat|2018-12-05 14:24|affects versions older than 8.5.30
-CVE-2018-13785|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-13785|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1517|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
@@ -466,17 +466,17 @@ CVE-2018-2952|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to
 CVE-2018-2964|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2972|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-2973|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3136|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
-CVE-2018-3139|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
-CVE-2018-3149|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3136|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3139|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3149|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-3150|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-3157|java|2018-10-23 15:44|only affects jdk11
-CVE-2018-3169|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
-CVE-2018-3180|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3169|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3180|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-3183|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-3209|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
 CVE-2018-3211|java|2018-10-25 14:00|old versions, unmuted after reference update on oct 25
-CVE-2018-3214|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-3214|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-3258|mysql-connector-java|2018-12-05 14:37|CVE against versions older than 8.0.12; esgf uses an updated version
 CVE-2018-3639|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-5968|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
