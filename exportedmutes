@@ -317,7 +317,7 @@ CVE-2017-17485|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2017-3156|misc|2018-10-27 11:54|old versions
 CVE-2017-3163|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2017-3231|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
-CVE-2017-3241|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
+CVE-2017-3241|java|2018-12-12 08:45|CVEs against older versions or unrelated vendors
 CVE-2017-3252|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-3253|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
 CVE-2017-3259|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
@@ -533,8 +533,6 @@ CVE-2017-12881|spring|2018-10-11 13:24|CVEs against older versions and unrelated
 CVE-2017-12882|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2017-13990|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2017-14735|Misc|2018-10-17 11:33|older versions
-CVE-2017-15293|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2017-15295|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2017-15708|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2017-3161|hadoop|2018-10-29 08:00|old version
 CVE-2017-3162|hadoop|2018-10-29 08:00|old version
@@ -574,9 +572,8 @@ CVE-2016-2884|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-3086|hadoop|2018-10-29 08:00|old version
 CVE-2016-3090|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2016-3642|Apache Commons|2018-10-11 14:21|unrelated products, old versions
-CVE-2016-3979|java|2018-10-08 14:29|Unrelated products/vendors
-CVE-2016-3980|Misc|2018-10-18 13:04|Batch-mute
-CVE-2016-4016|java|2018-10-08 14:29|Unrelated products/vendors
+CVE-2016-3979|java|2018-12-12 08:45|Unrelated products/vendors
+CVE-2016-4016|java|2018-12-12 08:45|Unrelated products/vendors
 CVE-2016-4368|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-4369|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2016-4372|Apache Commons|2018-10-11 14:21|unrelated products, old versions
