@@ -517,6 +517,7 @@ CVE-2018-5761|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-7753|bleach|2018-10-03 11:58|affects only versionss 2.1, 2.1.1, and 2.1.2
 CVE-2018-8038|cxf|2018-10-29 08:00|false-positive
 CVE-2018-8119|java|2018-10-08 14:29|Unrelated products/vendors
+CVE-2018-8479|java|2018-12-13 10:25|Unrelated product
 CVE-2017-10104|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2017-10117|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2017-10121|java|2018-10-08 14:29|Unrelated products/vendors
