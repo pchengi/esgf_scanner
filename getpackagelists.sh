@@ -32,7 +32,7 @@ cat cog_packages >>manifest.md
 echo "" >>manifest.md
 echo "# Publisher Packages" >>manifest.md
 echo "" >>manifest.md
-cat cog_packages >>manifest.md
+cat pub_packages >>manifest.md
 echo "" >>manifest.md
 
 tar -czf packagelists.tgz cog_packages pub_packages lasjars jarlist solr_jars esgf_version post_replacement_solr_jarlist.txt pre_replacement_solr_jarlist.txt manifest.md
