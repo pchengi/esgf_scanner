@@ -473,6 +473,7 @@ CVE-2018-1000056|junit|2018-10-03 12:01|false-positive hit on unrelated product 
 CVE-2018-1000632|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
 CVE-2018-1000807|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000808|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
+CVE-2018-1000873|jackson-databind|2019-01-23 16:08|CVE against versions older than 2.9.8
 CVE-2018-10237|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-10597|avalon|2018-10-29 08:00|false-positive
@@ -487,6 +488,7 @@ CVE-2018-11759|mod_jk,spring_security_oath|2018-12-19 12:17|not used
 CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-11776|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-11784|tomcat|2018-10-16 11:43|old version
+CVE-2018-11798|Apache Thrift|2019-01-23 15:34|False-positive hit, match on spring
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1229|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
@@ -511,6 +513,7 @@ CVE-2018-1305|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-1308|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2018-13088|future|2018-10-03 11:59|false-positive hit on unrelated product futures_pease
 CVE-2018-13145|java|2018-10-11 13:50|old versions and unrelated products
+CVE-2018-1320|Apache Thrift|2019-01-23 15:35|False-positive hit, match on spring
 CVE-2018-1323|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated products
 CVE-2018-1324|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
@@ -520,6 +523,10 @@ CVE-2018-13785|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due t
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-14632|json-patch|2019-01-02 09:35|Unrelated product; matched on json
+CVE-2018-14718|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
+CVE-2018-14719|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
+CVE-2018-14720|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
+CVE-2018-14721|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
 CVE-2018-1517|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-15756|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-15758|mod_jk,spring_security_oath|2018-12-05 05:54|not used
@@ -531,6 +538,9 @@ CVE-2018-17072|Misc|2018-12-05 05:27|Manually verified and found to be CVEs agai
 CVE-2018-17369|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-18074|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-18928|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
+CVE-2018-19360|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
+CVE-2018-19361|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
+CVE-2018-19362|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
 CVE-2018-19787|python-lxml|2019-01-02 09:34|Affects versions older than 4.2.5 which is deployed on ESGF
 CVE-2018-20060|urllib3|2018-12-14 14:10|affects versions older than 1.23
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
