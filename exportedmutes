@@ -470,6 +470,7 @@ CVE-2017-9805|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2018-0486|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1000011|findbugs|2018-10-03 09:36|False-positive; this is a Jenkins plugin, not the one used by esg-search.
 CVE-2018-1000056|junit|2018-10-03 12:01|false-positive hit on unrelated product Jenkins Junit Plugin
+CVE-2018-1000411|jenkins-plugin-junit|2019-01-29 07:16|Component not used.
 CVE-2018-1000632|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
 CVE-2018-1000807|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000808|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
