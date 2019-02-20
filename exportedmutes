@@ -474,7 +474,7 @@ CVE-2018-1000411|jenkins-plugin-junit|2019-01-29 07:16|Component not used.
 CVE-2018-1000632|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
 CVE-2018-1000807|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000808|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
-CVE-2018-1000873|jackson-databind|2019-01-23 16:08|CVE against versions older than 2.9.8
+CVE-2018-1000873|jackson-databind|2019-02-20 08:29|CVE against versions older than 2.9.8
 CVE-2018-10237|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-1052|postgresql|2018-09-28 14:32|Not affected
 CVE-2018-10597|avalon|2018-10-29 08:00|false-positive
@@ -492,6 +492,8 @@ CVE-2018-11784|tomcat|2018-10-16 11:43|old version
 CVE-2018-11798|Apache Thrift|2019-01-23 15:34|False-positive hit, match on spring
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
+CVE-2018-12022|jackson-databind|2019-02-20 08:51|CVEs against versions older than 2.9.8
+CVE-2018-12023|jackson-databind|2019-02-20 08:51|CVEs against versions older than 2.9.8
 CVE-2018-1229|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1230|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-12432|java|2018-10-11 13:50|old versions and unrelated products
@@ -509,6 +511,7 @@ CVE-2018-1272|Misc|2018-10-17 11:33|older versions
 CVE-2018-1273|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1274|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1275|Misc|2018-10-18 13:04|Batch-mute
+CVE-2018-1296|libpng,hadoop|2019-02-20 08:32|benign
 CVE-2018-1304|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-1305|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-1308|Lucene Solr|2018-10-03 14:42|old versions
@@ -521,6 +524,7 @@ CVE-2018-1327|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1336|tomcat|2018-12-05 14:24|affects versions older than 8.5.30
 CVE-2018-13503|south|2018-10-29 08:00|false-positive
 CVE-2018-13785|Misc|2018-12-06 20:20|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-14048|libpng,hadoop|2019-02-20 08:32|benign
 CVE-2018-1417|java|2018-10-08 14:20|CVEs against older versions
 CVE-2018-14574|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-14632|json-patch|2019-01-02 09:35|Unrelated product; matched on json
