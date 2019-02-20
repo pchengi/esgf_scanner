@@ -485,6 +485,7 @@ CVE-2018-10828|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-11039|Misc|2018-10-17 11:33|older versions
 CVE-2018-11040|Misc|2018-10-17 11:33|older versions
+CVE-2018-11307|jackson-databind|2019-02-20 14:38|CVE against versions older than 2.9.8
 CVE-2018-11759|mod_jk,spring_security_oath|2018-12-19 12:17|not used
 CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
 CVE-2018-11776|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
