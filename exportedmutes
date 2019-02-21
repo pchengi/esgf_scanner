@@ -464,7 +464,7 @@ CVE-2017-9787|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9791|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9793|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9801|Apache Commons|2018-10-11 14:21|unrelated products, old versions
-CVE-2017-9803|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2017-9803|Lucene Solr|2019-02-21 09:18|old versions
 CVE-2017-9804|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2017-9805|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2018-0486|Misc|2018-10-12 09:47|Old versions, unrelated products
@@ -512,6 +512,7 @@ CVE-2018-1272|Misc|2018-10-17 11:33|older versions
 CVE-2018-1273|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1274|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1275|Misc|2018-10-18 13:04|Batch-mute
+CVE-2018-1294|commons-email|2019-02-21 09:20|false-positive hit against commons
 CVE-2018-1296|libpng,hadoop|2019-02-20 08:32|benign
 CVE-2018-1304|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-1305|Misc|2018-10-18 13:04|Batch-mute
