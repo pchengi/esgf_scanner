@@ -485,6 +485,7 @@ CVE-2018-10828|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-11039|Misc|2018-10-17 11:33|older versions
 CVE-2018-11040|Misc|2018-10-17 11:33|older versions
+CVE-2018-11212|java|2019-03-06 08:26|CVEs against IBM java
 CVE-2018-11307|jackson-databind|2019-02-20 14:38|CVE against versions older than 2.9.8
 CVE-2018-11759|mod_jk,spring_security_oath|2018-12-19 12:17|not used
 CVE-2018-11771|Misc (openssl,xmlsec)|2018-10-15 08:03|Score and reference updates on known and benign issues
@@ -501,6 +502,8 @@ CVE-2018-12432|java|2018-10-11 13:50|old versions and unrelated products
 CVE-2018-12536|jetty|2018-10-29 08:00|not exploitable
 CVE-2018-12538|jetty|2018-10-29 08:00|wrong version series
 CVE-2018-12539|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
+CVE-2018-12547|java|2019-03-06 08:26|CVEs against IBM java
+CVE-2018-12549|java|2019-03-06 08:26|CVEs against IBM java
 CVE-2018-1256|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1257|spring-framework|2018-12-05 14:19|CVE against older versions (4.3.x up to 4.3.17)
 CVE-2018-1258|Misc|2018-10-19 14:57|pchengi: old versions. had got unmuted on 19 oct 2018 due to reference updates in the cves
@@ -544,6 +547,7 @@ CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-17072|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-17369|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-18074|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
+CVE-2018-1890|java|2019-03-06 08:26|CVEs against IBM java
 CVE-2018-18928|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-19360|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
 CVE-2018-19361|jackson-databind|2019-01-23 16:04|CVEs against versions older than 2.9.8
