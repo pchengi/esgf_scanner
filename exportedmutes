@@ -139,6 +139,7 @@ CVE-2015-8765|Apache Commons|2018-10-11 14:21|unrelated products, old versions
 CVE-2015-8795|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8796|Lucene Solr|2018-10-03 14:42|old versions
 CVE-2015-8797|Lucene Solr|2018-10-03 14:42|old versions
+CVE-2015-9235|nodejs-jsonwebtoken|2019-09-23 15:31|false-positive hit on json
 CVE-2016-0223|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2016-0264|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
 CVE-2016-0363|java|2018-10-08 14:13|CVEs against older versions or unrelated vendors
@@ -470,8 +471,11 @@ CVE-2017-9805|struts|2018-10-11 12:53|CVEs against versions older than 2.5.13
 CVE-2018-0486|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-1000011|findbugs|2018-10-03 09:36|False-positive; this is a Jenkins plugin, not the one used by esg-search.
 CVE-2018-1000056|junit|2018-10-03 12:01|false-positive hit on unrelated product Jenkins Junit Plugin
+CVE-2018-1000089|django-anymail|2019-09-23 15:41|false-positive hit on django
 CVE-2018-1000411|jenkins-plugin-junit|2019-01-29 07:16|Component not used.
+CVE-2018-1000539|json-jwt|2019-09-23 15:12|false-positive hit on json
 CVE-2018-1000632|misc|2018-11-01 12:39|Unmuted for reference updates, score updates etc. Against older versions.
+CVE-2018-1000643|antisamy|2019-09-23 15:28|rejected CVE
 CVE-2018-1000807|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000808|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000873|jackson-databind|2019-02-20 08:29|CVE against versions older than 2.9.8
@@ -485,6 +489,7 @@ CVE-2018-10828|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-10912|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-11039|Misc|2018-10-17 11:33|older versions
 CVE-2018-11040|Misc|2018-10-17 11:33|older versions
+CVE-2018-11087|spring-ampq|2019-09-23 15:32|false-positive hit on spring
 CVE-2018-11212|java|2019-03-06 08:26|CVEs against IBM java
 CVE-2018-11307|jackson-databind|2019-09-23 15:00|CVE against versions older than 2.9.8
 CVE-2018-11759|mod_jk,spring_security_oath|2018-12-19 12:17|not used
@@ -545,6 +550,8 @@ CVE-2018-16552|django-crm|2018-10-26 08:00|product not used
 CVE-2018-1656|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-16984|Django|2018-10-16 11:50|different generation of product
 CVE-2018-17072|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
+CVE-2018-17201|commons_imaging|2019-09-23 15:48|False-positive hit on commons
+CVE-2018-17202|commons_imaging|2019-09-23 15:49|false-positive hit on commons
 CVE-2018-17369|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-18074|Misc|2018-12-05 05:27|Manually verified and found to be CVEs against unrelated products or old versions
 CVE-2018-1890|java|2019-09-23 15:00|CVEs against IBM java
@@ -614,7 +621,9 @@ CVE-2018-3258|mysql-connector-java|2018-12-05 14:37|CVE against versions older t
 CVE-2018-3639|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-5761|Misc|2018-10-12 09:47|Old versions, unrelated products
 CVE-2018-5968|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2018-6185|cloudera_manager|2019-09-23 15:51|false-positive hit on hadoop
 CVE-2018-6188|django|2018-09-27 22:24|Current version is unaffected. Check before upgrading.
+CVE-2018-6596|django-anymail|2019-09-23 15:11|false-positive hit on django
 CVE-2018-7489|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-7536|Misc|2018-10-18 13:04|Batch-mute
 CVE-2018-7537|Misc|2018-10-18 13:04|Batch-mute
