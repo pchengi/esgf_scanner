@@ -382,7 +382,7 @@ CVE-2017-13990|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated
 CVE-2017-14735|Misc|2019-09-26 18:06|older versions
 CVE-2017-14868|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2017-14949|misc|2018-10-26 15:00|CVEs addressed with upgrades in ESGF 2.8b5
-CVE-2017-15095|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2017-15095|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2017-15097|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15098|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-15099|postgresql|2018-09-28 11:33|Benign/not-applicable
@@ -390,9 +390,9 @@ CVE-2017-15698|tomcat|2019-09-26 18:06|CVEs against older versions and unrelated
 CVE-2017-15706|tomcat|2019-09-26 18:06|CVEs against older versions and unrelated products
 CVE-2017-15707|Misc|2019-09-26 18:06|Old versions, unrelated products
 CVE-2017-15708|Apache Commons|2018-10-11 14:21|unrelated products, old versions
-CVE-2017-16015|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2017-16015|Misc|2019-09-27 18:15|Batch-mute
 CVE-2017-16853|Misc|2018-10-11 14:46|old versions
-CVE-2017-17485|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2017-17485|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2017-3156|misc|2018-10-27 11:54|old versions
 CVE-2017-3161|hadoop|2018-10-29 08:00|old version
 CVE-2017-3162|hadoop|2018-10-29 08:00|old version
@@ -444,7 +444,7 @@ CVE-2017-7465|tomcat|2018-10-09 14:25|CVEs against older versions and unrelated 
 CVE-2017-7484|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-7485|postgresql|2018-09-28 11:33|Benign/not-applicable
 CVE-2017-7486|postgresql|2018-09-28 11:37|Not applicable
-CVE-2017-7525|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2017-7525|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2017-7536|hibernate-validator|2018-12-19 12:17|ESGF uses a different series, v4.3.2
 CVE-2017-7546|postgresql|2018-09-28 14:26|Fixed
 CVE-2017-7547|postgresql|2018-09-28 14:32|Not affected
@@ -478,7 +478,6 @@ CVE-2018-1000411|jenkins-plugin-junit|2019-01-29 07:16|Component not used.
 CVE-2018-1000539|json-jwt|2019-09-23 15:12|false-positive hit on json
 CVE-2018-1000632|misc|2019-09-26 18:06|Unmuted for reference updates, score updates etc. Against older versions.
 CVE-2018-1000643|antisamy|2019-09-23 15:28|rejected CVE
-CVE-2018-1000807|Misc|2019-09-26 18:06|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000808|Misc|2019-09-26 18:06|CVEs against Java unmuted due to reference updates.
 CVE-2018-1000873|jackson-databind|2019-09-26 18:06|CVE against versions older than 2.9.8
 CVE-2018-10237|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
@@ -545,8 +544,8 @@ CVE-2018-14574|Misc|2019-09-26 18:06|Old versions, unrelated products
 CVE-2018-14632|json-patch|2019-01-02 09:35|Unrelated product; matched on json
 CVE-2018-14718|jackson-databind|2019-09-26 18:06|CVEs against versions older than 2.9.8
 CVE-2018-14719|jackson-databind|2019-09-26 18:06|CVEs against versions older than 2.9.8
-CVE-2018-14720|jackson-databind|2019-09-26 18:06|CVEs against versions older than 2.9.8
-CVE-2018-14721|jackson-databind|2019-09-26 18:06|CVEs against versions older than 2.9.8
+CVE-2018-14720|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
+CVE-2018-14721|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2018-1517|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-15756|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-15758|mod_jk,spring_security_oath|2019-09-26 18:06|not used
@@ -625,12 +624,12 @@ CVE-2018-3214|Misc|2019-09-26 18:06|Manually checked; all entries unmuted due to
 CVE-2018-3258|mysql-connector-java|2019-09-26 18:06|CVE against versions older than 8.0.12; esgf uses an updated version
 CVE-2018-3639|Misc|2019-09-26 18:06|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-5761|Misc|2018-10-12 09:47|Old versions, unrelated products
-CVE-2018-5968|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
+CVE-2018-5968|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2018-6185|cloudera_manager|2019-09-23 15:51|false-positive hit on hadoop
 CVE-2018-6188|django|2019-09-26 18:06|Current version is unaffected. Check before upgrading.
 CVE-2018-6354|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2018-6596|django-anymail|2019-09-23 15:11|false-positive hit on django
-CVE-2018-7489|Misc|2019-09-26 18:06|Manually checked; all entries unmuted due to reference updates etc. 
+CVE-2018-7489|jackson-databind|2019-09-27 18:18|CVEs against versions older than 2.9.8
 CVE-2018-7536|Misc|2019-09-26 18:06|Batch-mute
 CVE-2018-7537|Misc|2019-09-26 18:06|Batch-mute
 CVE-2018-7753|bleach|2018-10-03 11:58|affects only versionss 2.1, 2.1.1, and 2.1.2
