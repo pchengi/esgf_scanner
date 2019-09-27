@@ -499,6 +499,7 @@ CVE-2018-11771|Misc (openssl,xmlsec)|2019-09-26 18:06|Score and reference update
 CVE-2018-11776|Misc|2019-09-26 18:06|CVEs against Java unmuted due to reference updates.
 CVE-2018-11784|tomcat|2019-09-26 18:06|old version
 CVE-2018-11798|Apache Thrift|2019-09-26 18:06|False-positive hit, match on spring
+CVE-2018-11802|solr|2019-09-27 19:04|Reserved CVE
 CVE-2018-1196|spring|2018-10-11 13:24|CVEs against older versions and unrelated products
 CVE-2018-1199|spring|2019-09-26 18:06|CVEs against older versions and unrelated products
 CVE-2018-12022|jackson-databind|2019-09-23 15:00|CVEs against versions older than 2.9.8
@@ -549,6 +550,7 @@ CVE-2018-14721|jackson-databind|2019-09-27 18:18|CVEs against versions older tha
 CVE-2018-1517|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-15756|misc|2019-09-26 18:06|CVEs addressed with upgrades in ESGF 2.8b5
 CVE-2018-15758|mod_jk,spring_security_oath|2019-09-26 18:06|not used
+CVE-2018-15801|spring-security|2019-09-27 19:04|Spring Security versions 5.1.x prior to 5.1.2 
 CVE-2018-16435|Misc|2018-11-13 11:55|CVEs against Java unmuted due to reference updates.
 CVE-2018-16552|django-crm|2018-10-26 08:00|product not used
 CVE-2018-1656|Misc|2019-09-26 18:06|Manually checked; all entries unmuted due to reference updates etc. 
@@ -565,6 +567,7 @@ CVE-2018-19361|jackson-databind|2019-09-26 18:06|CVEs against versions older tha
 CVE-2018-19362|jackson-databind|2019-09-26 18:06|CVEs against versions older than 2.9.8
 CVE-2018-19787|python-lxml|2019-01-02 09:34|Affects versions older than 4.2.5 which is deployed on ESGF
 CVE-2018-20060|urllib3|2019-09-26 18:06|affects versions older than 1.23
+CVE-2018-20200|okhttp|2019-09-27 19:04|Unrelated product
 CVE-2018-2569|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-2579|Misc|2019-09-26 18:06|Manually checked; all entries unmuted due to reference updates etc. 
 CVE-2018-2581|Misc|2018-12-05 05:20|Manually checked; all entries unmuted due to reference updates etc. 
@@ -647,26 +650,38 @@ CVE-2018-8039|cxf|2019-09-26 18:06|CVE against versions up to 3.1.15
 CVE-2018-8088|slf4j|2019-09-26 18:06|org.slf4j.ext.EventData not present in either slf4j-api or slf4j-log4j12 jars used in ESGF components and thredds
 CVE-2018-8119|java|2018-10-08 14:29|Unrelated products/vendors
 CVE-2018-8479|java|2018-12-13 10:25|Unrelated product
+CVE-2019-0192|solr|2019-09-27 19:04|Affects solr versions older than 6.6.5
+CVE-2019-0201|tomcat|2019-09-27 19:04|SSI is disabled by default in Tomcat config
+CVE-2019-0221|tomcat|2019-09-27 19:04|SSI is disabled by default in Tomcat config
+CVE-2019-0232|tomcat|2019-09-27 19:04|windows specific
 CVE-2019-0729|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-0741|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-10157|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-10199|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-10201|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-10245|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-11272|spring-security-core|2019-09-27 19:04|Only affects 4.2.x up to 4,2.12
 CVE-2019-11457|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-11771|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-11772|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-11775|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-12401|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-12402|commons compress|2019-09-27 19:04|not used
 CVE-2019-13177|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-14232|Django|2019-09-27 19:04|1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4
+CVE-2019-14233|Django|2019-09-27 19:04|1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4
+CVE-2019-14234|Django|2019-09-27 19:04|Django 1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4.
+CVE-2019-14235|Django|2019-09-27 19:04|Django 1.11.x before 1.11.23, 2.1.x before 2.1.11, and 2.2.x before 2.2.4.
 CVE-2019-15486|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2422|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2426|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2449|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2540|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-2684|java|2019-09-27 19:04|affects 8u202 and older
 CVE-2019-2697|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2698|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2699|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-2745|java|2019-09-27 19:04|affects 8u212 and older
 CVE-2019-2762|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2766|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2769|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
@@ -675,11 +690,19 @@ CVE-2019-2816|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inco
 CVE-2019-2818|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2821|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-2842|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-3498|Django|2019-09-27 19:04|Django 1.11.x before 1.11.18, 2.0.x before 2.0.10, and 2.1.x before 2.1.5
+CVE-2019-3772|spring integration|2019-09-27 19:04|component not used
 CVE-2019-3773|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-3774|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-3778|spring-security-oauth2|2019-09-27 19:04|not used
 CVE-2019-3797|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-3799|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-3802|spring-data|2019-09-27 19:04|not used
+CVE-2019-3816|openwsman|2019-09-27 19:04|unrelated product
+CVE-2019-3833|openwsman|2019-09-27 19:04|unrelated product
 CVE-2019-3868|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-3875|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
 CVE-2019-4473|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs
+CVE-2019-6446|numpy|2019-09-27 19:04|affects versions up to 1.16.0
+CVE-2019-6975|Django|2019-09-27 19:04|Django 1.11.x before 1.11.19, 2.0.x before 2.0.11, and 2.1.x before 2.1.6 
 CVE-2019-7317|misc|2019-09-26 19:19|bulk-mute of mostly java and some other inconsequential CVEs

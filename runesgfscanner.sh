@@ -23,7 +23,7 @@ git pull >>runlog-esgf_scanner && git submodule init >>runlog-esgf_scanner && gi
 bash firstuse.sh
 bash generate_esgfconf.sh
 cp esgf.conf exportedmutes cvechecker
-cp ack cvechecker/pinned_cves
+cat ack|cut -d '|' -f1 > cvechecker/pinned_cves
 cd cvechecker
 echo -n > unmutable
 bash firstuse.sh
