@@ -27,7 +27,7 @@ cat ack|cut -d '|' -f1 > cvechecker/pinned_cves
 cd cvechecker
 echo -n > unmutable
 bash firstuse.sh
-python3 cvechecker.py -u >> ../runlog-esgf_scanner
+python3 cvechecker.py -u --local-certfile>> ../runlog-esgf_scanner
 python3 cvechecker.py -d -m off
 python3 cvechecker.py -i exportedmutes >muting_transcript
 if [ -s muting_transcript ]; then
